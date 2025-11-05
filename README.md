@@ -23,8 +23,8 @@ This project is divided into two main roles:
 ## 🛠️ Tech Stack
 
 * **Backend:** Node.js, Express.js
-* **Database:** MySQL (or your specific SQL database)
-* **Language:** JavaScript (ES6+)
+* **Database:** MySQL 
+* **Language:** HTML, CSS, Python
 * **Tools:** VS Code, Git & GitHub
 
 ---
